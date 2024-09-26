@@ -1,2 +1,2 @@
-# FUDAN_NNDL
+# FUDAN-NNDL
 self-learning program
